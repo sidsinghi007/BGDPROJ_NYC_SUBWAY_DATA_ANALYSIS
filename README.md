@@ -1,2 +1,4 @@
-# NYC_Subway_Data_Analysis_Udacity
-Project for Udacity's Big Data Foundations Nanodegree. This notebook analyses NYC Subway Data, asking questions and insights on it. It also implements MapReduce. 
+# NYC_Subway_Data_Analysis
+Using Hadoop Streaming Map Reduce on NYC Subway Data 
+Also includes Subway data analysis
+
